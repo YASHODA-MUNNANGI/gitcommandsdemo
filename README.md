@@ -1,1 +1,2 @@
 # gitcommandsdemo
+stash
